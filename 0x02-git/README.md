@@ -1,0 +1,1 @@
+A simple program explaining the git commands
